@@ -1,0 +1,14 @@
+Tracking my days at DevCodeCamp:
+
+2-29-16
+
+Today we learned a couple of basic computer science concepts.
+These included internal hardware components something I was already fairly well versed in from buildiing towers as a kid.
+We also learned different computing counts which was new to me save for binary which I knew of and had moderate exposure to.
+Following these more basic lessons we dug into our collaboration tool GitHub. It was a little tricky at first but I believe that I am getting the hang of it and have now successfully completed several commits, pulls, pushes, etc.
+I am excited to start the real coding tomorrow as that is what I am here for. I have so many ideas spinning in my head and can't wait to see them thru to fruition.
+Day ones note will be a little shorter as it is obviously a very introductory and surface level overview of what this course will intail. I expect my journals to get more complex as my code grows in complexity.
+Here is to a new exiting experience for me, look out day 2 here I come!
+
+3-01-16
+
