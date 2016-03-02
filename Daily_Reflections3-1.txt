@@ -1,0 +1,6 @@
+3-01-16
+Today I learned a ton and feel like I am already grasping at least some base concepts in html and CSS. The morning lecture was a little frusterating and I still didn't accomplish the file replacement task with the .bat file.
+It didn't seem like anyone really did though, it was actually a really complicated task.
+The afternoon went really well my website looks terrible but I made a ton of changes to it from formating in CSS to adding more pictures and links in html. 
+I really need to learn to commit a ton more of the changes I am making so you guys can see my various revisions. For today however I think that is my night, time to go to work!
+
