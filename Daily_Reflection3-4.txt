@@ -1,0 +1,7 @@
+Reflection 3-4
+
+Today I made some real strides. I feel that i left my neighbors in the dust a bit and accomplished all my goals (mostly my adventure game is still a little buggy).
+I really like working on this backend stuff as  math has always been a strong suit of mine and seems like it would be heavily involved here.
+Syntax is definitely an issue but I think that it is something that you gain thru repetition. Even the little bit that I got made me feel much more comfortable with if else, while, and other base java commands.
+I know that I have miles and miles to go but I am starting to see how these programs are related and how my knowledge will carry over. My basic understanding of python allowed me to pick up on while  and if statements super quick in java.
+Tomorrow we are going far more in depth in JAVA and I am very excited for that. My programming ability is getting stronger by the day and in a few more weeks I will be completing the large scale projects that I have always dreamed of creating.
