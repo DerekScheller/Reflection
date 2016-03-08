@@ -1,4 +1,4 @@
-Reflection 3-4
+Reflection 3-3
 
 Today I made some real strides. I feel that i left my neighbors in the dust a bit and accomplished all my goals (mostly my adventure game is still a little buggy).
 I really like working on this backend stuff as  math has always been a strong suit of mine and seems like it would be heavily involved here.

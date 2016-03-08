@@ -1,0 +1,7 @@
+Reflection 3-7
+
+Today was just a deeper dive into Java. 
+I got Codecademy pro to work along to this course with and the dual learning technique seems to be helping me quickly pick up on syntax.
+I solved the FIZZBUZZ problem in maybe 10 min it was fairly rudimentary for me to solve.
+I was really far into my Robot but then after Adam's excellent Demo at the end of the day I am more than likely going to just redo my robot in a much simpler form.
+I will come in tomorrow with a finished robot come hell or highwater!!
