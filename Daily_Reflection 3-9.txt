@@ -1,0 +1,6 @@
+3-9-16 Reflection
+
+I was a bit tired today but really feel like Jared and I made great strides on our dice game. We are turning in something that I am proud of.
+The code that I wrote for adding players is something I am particularly happy with. It is short, sleak, allows for infinite AI or HotSeat Humans and functions great.
+Furthermore it is not a concept that many of my other classmates seemed to accomplish in the same way, while many others set limits, we were one of the few groups who had the unlimited add down.
+Our game play is dry but fills all of the assignment requirements and the function is actually pretty great.

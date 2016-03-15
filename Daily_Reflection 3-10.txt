@@ -1,0 +1,4 @@
+3-10-16 Reflection
+
+Pretty focused today on getting a good dive into Nim and Happy Numbers. I am about 1/2way complete with Nim to this point and have Happy Numbers Stubbed out.
+I think I am in good shape seeing as we are getting basically the whole game tomorrow.

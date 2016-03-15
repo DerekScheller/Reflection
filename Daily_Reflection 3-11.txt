@@ -1,0 +1,6 @@
+3-11-16 Reflection
+TGIF!!
+
+Great week crazy to think that the second one is already complete. I learned a ton this week and I already have a good jump on the weekend assignment.
+I finished my NIM game and Happy numbers, my AI is stupid but the functionality is really good for everything else. 
+I couldn't figure out how  to do the math to find NIM sums for multiple piles, with the binary conversion and everything else involved it was simply beyond me.
