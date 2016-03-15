@@ -1,0 +1,8 @@
+3-15-16
+Today was our first day with C# and Visual Studio. 
+I spent the morning trying to do an impossible math problem from a website that Mike suggested.
+I got pretty close and was at least able to create the intial binary series of Theu values but couldn't quite get the second part.
+Only 400 people have ever solved it though so I am not too discouraged seeing as most of the other problems had hundreds of thousands who had solved them.
+After that I realized that there was a problem on the board that Andrew put up so I started to work on it in JAVA.
+It is a Roman numeral converter that works both ways, while I did not complete it in JAVA, I was able to finish it in C#!!!
+Can't wait to learn more about the software tomorrow.
