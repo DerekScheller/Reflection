@@ -1,0 +1,7 @@
+Reflection 3-17-16
+
+Today I achieved all the tasks set before me and for the first time wasn't working right up to the bell.
+My binary converter got a little tricky but eventually I figured it out and now have a really slick solution.
+The UML mapping seems useful to layout projects however mine Robot was far to simple to be a practical example. 
+I probably could have just told my partner what to do more easily but I get that for larger operations this is a very useful tool.
+I think that tomorrow will be a very good day because it is the first day of our big project!!
