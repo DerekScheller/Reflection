@@ -1,0 +1,5 @@
+Reflection 3/21/16
+
+Today I was very focused on our week long project. I accomplished my goal of integrating the yahoo finance API but then hit a wall.
+I have what I think is the basis of the transaction logic complete but I am at a wall and need to plan out how I attack the next phase of my project.
+I think tomorrow I should focus on the transaction logic because once that is complete the project is essentially done except for the print statements and taking in user input.
