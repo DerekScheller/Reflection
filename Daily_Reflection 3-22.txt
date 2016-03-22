@@ -1,0 +1,6 @@
+Reflection 3-22-16
+
+I finished all of my goals by 4:30 today which is why I am getting around to this reflection a little earlier.
+I really took a step back and thought through the buying and selling logic and got it all knocked out. 
+I think that I will go back through and add in some short selling properties if time allows.
+Tomorrow I will attempt to add in the AI that you play against and then start to expand from there since the game will be exxentially done.
