@@ -1,0 +1,6 @@
+Reflection 3-23-16
+
+I was dreadfully ill this morning and slept in until lunch at which time I came in and was able to accomplish a fair amount.
+I staid focused despite my illness and got all of the short selling logic squared away. I am still a ways off however on the AI algorithm.
+I think that tomorrow my main focus will be working on the AI and see if I can pivot my project from a game to a market making algorithm.
+My plan tonight is to stay focused on the AI logic and read some more on various regression models to implement tomorrow.
