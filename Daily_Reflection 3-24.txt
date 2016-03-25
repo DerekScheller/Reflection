@@ -1,0 +1,6 @@
+Reflection 3-24-16
+
+I spent the day mostly reorganizing my code and trying to impliment more logic to my algorithm.
+After an imense amount of reading and cyphering through various summation equations, I was able to create an entire class dedicated to equations to anaylize my data.
+Most of them are fairly rudimentary but I can beef them up more as I run the algorithm and find where it is deficient in its predictions.
+I am happy with the project up till now but still have an imense amount of work to do and feel a little behind the 8ball.

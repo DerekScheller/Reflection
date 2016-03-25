@@ -1,0 +1,6 @@
+Reflection 3-25-16
+
+I added two new functions to my equations page and one is actually quite the complex indicator though only when paired with another one that I have not quite figured out.
+I still have a lot to do and see now that I may have set my goals a bit too lofty but o well shoot for the stars right.
+After breaking apart and simplifying my classes I see what needs to be done over the weeekend and while it is a lot I think that I should be able to accomplish at least an MVP by monday morniing.
+Here is to a long weekend of coding!!!
