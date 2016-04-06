@@ -1,0 +1,5 @@
+Reflection 4-5
+
+We got a project today which seems straight forward but actually turned out to be rather tough.
+The directions themselves were not to clear and that confused me for alot of the morning.
+After having Adam explain however I got a solid start to the project which is essentially just making a bunch of different custom String manipulation classes.

@@ -1,0 +1,8 @@
+Reflection 4-6
+
+Today we spent most of the day working on the custom string manipulation project. 
+It seems that Adam and I are the only two who have completed all of the project as assigned.
+I am happy with the how it turned out and ready to move on to the next dictionary assignment. 
+I think that it looks quite simple but we also recieved a calculator assignment that seems extremely tough.
+For that reason I am going to try to finish the dictionary tonight after class so that I can spend tomorrow working on the calculator.
+I plan to skip the challenge portion of the dictionary assigment so that I can attempt to use dependency injection on my calculator.
