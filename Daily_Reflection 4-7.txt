@@ -1,0 +1,7 @@
+Reflection 4-7
+
+Today we spent the morning working on our 4 previously assigned projects.
+Last night a stub out the code for the dictionary project and was able to quickly finish the sweepstakes project that ties into it.
+After finishing it I stubbed out my calculator project just before Ben's lecture on Concurrency.
+Again a great lecture and I followed it up with watching many youtube tutorials on design patterns in C#.
+Mainly I am trying to figure out factory classes and methods to impliment with dependency injection in my project.
