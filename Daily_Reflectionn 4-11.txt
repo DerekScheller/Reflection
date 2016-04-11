@@ -1,0 +1,5 @@
+Reflection 4-11-16
+
+Today I planned out my web application for recruiting. It needs to be simplified so that I can represent it tomorrow morning to Ben.
+I will be integrating both google maps and calender and I think I may try to use salesforce yet.
+Tonight I will do a redesign and hopefully get through some more tutorials in ASP.NET and maybe some JAVASCRIPT as well.
